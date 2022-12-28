@@ -1,0 +1,85 @@
+body {
+    font-family: "Google Sans", sans-serif;
+    text-align: center;
+}
+
+ul {
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    position: sticky;
+    top: 0;
+}
+
+.nav-link {
+    color: #551cff;
+}
+
+.spacer {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 75px;
+}
+
+.hcontainer {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px 20px 50px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px 20px;
+}
+
+.fcontainer {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px 20px 100px;
+    background-color: #dbccff;
+}
+
+.textbox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: center;
+}
+
+.menu {
+    margin-left: 5%;
+    margin-right: 10%;
+    position: sticky;
+    top: 4em;
+}
+
+h1 {
+    font-size: 5rem;
+    padding: 25px 0px;
+}
+
+h2 {
+    padding: 10px 0px;
+}
+
+.contact {
+    color: #FFFFFF;
+    font-size: 3rem;
+}
+
+.btn-primary {
+    background-color: #551cff;
+    border-color: #551cff;
+}
+
+.btn-secondary {
+    background-color: #551cff;
+    border-color: #551cff;
+    width: 80%;
+    height: 100%;
+}
+
+.wicon {
+    color: #FFFFFF;
+}
